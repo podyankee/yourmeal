@@ -19,3 +19,4 @@ export const orderTotalAmount = document.querySelector('.order__total-amount');
 export const order = document.querySelector('.order');
 export const orderWrapTitle = document.querySelector('.order__wrap-title');
 export const orderSubmit = document.querySelector('.order__submit');
+export const modalDeliveryContainer = document.querySelector('.modal-delivery__container');
